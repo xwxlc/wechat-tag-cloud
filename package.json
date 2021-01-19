@@ -7,7 +7,7 @@
   "miniprogram": "src",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xwxlc/gdy-data-view.git"
+    "url": "git+https://github.com/xwxlc/wechat-tag-cloud.git"
   },
   "license": "ISC",
   "keywords": [
@@ -20,9 +20,9 @@
   "devDependencies": {
   },
   "bugs": {
-    "url": "https://github.com/xwxlc/gdy-data-view/issues"
+    "url": "https://github.com/xwxlc/wechat-tag-cloud/issues"
   },
-  "homepage": "https://github.com/xwxlc/gdy-data-view#readme",
+  "homepage": "https://github.com/xwxlc/wechat-tag-cloud#readme",
   "directories": {
     
   }
