@@ -1,6 +1,6 @@
 {
   "name": "wechat-tag-cloud",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "/lib",
   "author": "xiaolanchong <1006903445@qq.com>",
   "description": "微信小程序 标签云插件",
