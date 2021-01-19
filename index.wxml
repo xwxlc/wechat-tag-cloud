@@ -1,0 +1,7 @@
+<view class="tag-cloud-wrapper">
+    <view class="tag-cloud-list" bind:touchstart='touchStart' bind:touchmove='touchMove' bind:touchend='touchEnd'>
+        <view class="tag-cloud-item" wx:for="{{list}}" wx:key="index" style="top:{{tags[index].top}};left:{{tags[index].left}};z-index:{{tags[index].zIndex}};opacity:{{tags[index].opacity}};transform:{{tags[index].transform}};">
+            {{item.title}}
+        </view>
+    </view>
+</view>

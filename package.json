@@ -1,0 +1,29 @@
+{
+  "name": "wechat-tag-cloud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "xiaolanchong <1006903445@qq.com>",
+  "description": "微信小程序 标签云插件",
+  "miniprogram": "src",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwxlc/gdy-data-view.git"
+  },
+  "license": "ISC",
+  "keywords": [
+    "微信小程序",
+    "chart",
+    "DataV"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/xwxlc/gdy-data-view/issues"
+  },
+  "homepage": "https://github.com/xwxlc/gdy-data-view#readme",
+  "directories": {
+    
+  }
+}

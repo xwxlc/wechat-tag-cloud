@@ -1,0 +1,19 @@
+.tag-cloud-list {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #ddd;
+  overflow: hidden;
+}
+.tag-cloud-item {
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 30rpx;
+  white-space: nowrap;
+  transform-origin: 50% 50%;
+  transform: scale(1);
+  color: green;
+  user-select: none;
+  /* transition: all 0.3s; */
+}
